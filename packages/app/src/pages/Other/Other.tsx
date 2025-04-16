@@ -93,12 +93,12 @@ function Other() {
                         icon
                         onPress={() =>
                             Linking.openURL(
-                                'https://github.com/yinxin630/fiora-app',
+                                'https://www.52kk.vip',
                             )
                         }
                     >
                         <Body>
-                            <Text style={styles.listItemTitle}>源码</Text>
+                            <Text style={styles.listItemTitle}>官方</Text>
                         </Body>
                         <Right>
                             <Icon
@@ -111,7 +111,7 @@ function Other() {
                     <ListItem
                         icon
                         onPress={() =>
-                            Linking.openURL('https://www.suisuijiang.com')
+                            Linking.openURL('https://www.52kk.vip')
                         }
                     >
                         <Body>
@@ -128,7 +128,7 @@ function Other() {
                     <ListItem
                         icon
                         onPress={() =>
-                            Linking.openURL('https://fiora.suisuijiang.com')
+                            Linking.openURL('https://lt.52kk.vip')
                         }
                     >
                         <Body>
@@ -163,7 +163,7 @@ function Other() {
             <View style={styles.copyrightContainer}>
                 <Text style={styles.copyright}>
                     Copyright© 2015-
-                    {new Date().getFullYear()} 碎碎酱
+                    {new Date().getFullYear()} 金诺网络工作室
                 </Text>
             </View>
             <PrivacyPolicy
